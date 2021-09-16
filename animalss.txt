@@ -1,3 +1,7 @@
-lion
+ main
+lion green
+
+lion purple 
+ main
 snake
 hedgehog
